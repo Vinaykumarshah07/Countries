@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './CountryListshimmer.css'
+import "./Countrylistshimmer.css";
 
 export default function CountryListshimmer() {
   // new Array(10).fill('')
