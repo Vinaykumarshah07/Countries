@@ -1,8 +1,8 @@
-import { useContext, useEffect, useState } from "react";
+import { useState } from "react";
 import Sreachbar from "./Sreachbar";
 import Selectmenu from "./Selectmenu";
 import Countrieslist from "./Countrieslist";
-import { ThemeContext } from "../Context/ThemeContext"
+
 
 
 export default function Home() {
